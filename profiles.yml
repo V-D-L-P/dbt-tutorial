@@ -6,7 +6,7 @@ config:
 normalize:
   outputs:
     prod:
-      dbname: db
+      dbname: smurfs_db
       host: localhost
       pass: password
       port: 5432

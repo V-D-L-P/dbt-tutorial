@@ -49,7 +49,8 @@ dispatch:
 vars:
   json_column: _airbyte_data
   models_to_source:
-    covid_epidemiology_ab1: public._airbyte_raw_covid_epidemiology
-    covid_epidemiology_ab2: public._airbyte_raw_covid_epidemiology
-    covid_epidemiology_ab3: public._airbyte_raw_covid_epidemiology
-    covid_epidemiology: public._airbyte_raw_covid_epidemiology
+    botify_visits_report_ab1: public._airbyte_raw_botify_visits_report
+    botify_visits_report_ab2: public._airbyte_raw_botify_visits_report
+    botify_visits_report_stg: public._airbyte_raw_botify_visits_report
+    botify_visits_report_scd: public._airbyte_raw_botify_visits_report
+    botify_visits_report: public._airbyte_raw_botify_visits_report

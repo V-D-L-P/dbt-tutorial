@@ -6,4 +6,4 @@ sources:
     schema: false
     identifier: false
   tables:
-  - name: _airbyte_raw_covid_epidemiology
+  - name: _airbyte_raw_botify_visits_report
